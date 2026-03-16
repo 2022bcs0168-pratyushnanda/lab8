@@ -1,0 +1,2 @@
+['remote "s3remote_2022bcs0168"']
+    url = s3://2022bcs0168/dvc-store
